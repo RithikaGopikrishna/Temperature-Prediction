@@ -1,0 +1,15 @@
+TEMPERATURE PREDICTION
+----------------------
+Model Used: Linear Regression
+Model Loss: 0.902274371188337
+Temperature predicted for tomorrow:  9.418530399794697
+----------------------
+Model Used: Decision Tree Regression
+Model Loss: 0.006723574480775507
+Temperature predicted for tomorrow:  8.855555555555554
+-----------------------
+Weather type: Partly Cloudy
+Precipitation: Rain
+Humidity: 0.89
+Wind Speed: 14.1197
+Pressure(millibars) 1015.13
